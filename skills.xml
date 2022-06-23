@@ -1,3 +1,13 @@
-<skills>
-
-	<skills> terminal, JavaScript, лень писать дальше </skills>
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <skills>terminal</skills>
+    <skills>JavaScript</skills>
+    <skills>Postman</skills>
+    <skills>Http</skills>
+    <skills>Charles</skills>
+    <skills>Fidler</skills>
+    <skills>DevTools</skills>
+    <skills>Xcode</skills>
+    <skills>Android Studio</skills>
+    <skills>SQL</skills>
+</root>

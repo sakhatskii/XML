@@ -1,7 +1,8 @@
-<xml>	
-
-	<movie> whiplash </movie>
-	<series> the big bang theory </series>
-	<food> burger </food>
-	<season> summer </season>
-	<country> usa </country>
+<?xml version="1.0" encoding="UTF-8" ?>
+<preferences>
+    <movie>whiplash</movie>
+    <series>the big bang theory</series>
+    <food>burger</food>
+    <season>summer</season>
+    <country>usa</country>
+</preferences>

@@ -1,1 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <bug_report>
+    <Bug_id>id_1</Bug_id>
+    <Title>something</Title>
+    <Severity>critical</Severity>
+    <Priority>high</Priority>
+    <Environment>macOS 10.13.6</Environment>
+    <Precondition>something</Precondition>
+    <STR>1, 2, 3</STR>
+    <AR>actual result</AR>
+    <ER>expected result</ER>
+</bug_report>

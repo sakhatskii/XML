@@ -1,6 +1,7 @@
-<about me>
-
-	<first_name> Aleksandr </first_name>
-	<second_name> Skhatskii </second_name>
-	<age> 31 </age>
-	<salary> 1000$ </salary>
+<?xml version="1.0" encoding="UTF-8" ?>
+<about_myself>
+    <first_name>Aleksandr</first_name>
+    <second_name>Sakhatskii</second_name>
+    <age>31</age>
+    <salary>1000$</salary>
+</about_myself>
